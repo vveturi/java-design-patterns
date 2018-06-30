@@ -1,4 +1,4 @@
-package org.spring.demo.design_patterns.creational;
+package org.spring.demo.design_patterns.creational.singleton;
 
 public class SingletonExample {
 	public static void main(String args[]) {

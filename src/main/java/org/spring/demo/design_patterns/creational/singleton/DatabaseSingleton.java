@@ -1,7 +1,7 @@
 /**
  * 
  */
-package org.spring.demo.design_patterns.creational;
+package org.spring.demo.design_patterns.creational.singleton;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
